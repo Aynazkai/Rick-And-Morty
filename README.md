@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-
+https://github.com/Aynazkai/Rick-And-Morty
 ```
 
 2. Open the project folder in your code editor.

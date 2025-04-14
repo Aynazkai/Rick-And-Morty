@@ -2,10 +2,6 @@
 
 ## [App Live](https://rick-and-morty-sn.netlify.app/)
 
-## App Preview
-
-![preview](./public/preview-project.gif)
-
 ---
 
 ## Description 📝
@@ -21,7 +17,6 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-https://github.com/Nima-sltn/Rick-And-Morty-Project.git
 
 ```
 
